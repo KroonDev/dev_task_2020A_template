@@ -1,8 +1,9 @@
 # CODE EVALUATION & REFACTORING TASK [DEV TASK 2020A]
-[![Kroon](kroon.svg)](https://kroonstudio.com/)
-Evaluate and Refactor PHP snippets
+**Evaluate and Refactor PHP snippets**
 
-> Your Name
+[![Kroon](kroon.svg)](https://kroonstudio.com/)
+
+> Your Name goes here...
 
 # A) AN ORDERING FUNCTION:
 ### Questions:
